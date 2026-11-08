@@ -1,0 +1,6 @@
+{
+  "name": "ResearchMate – AI Research Paper Agent",
+  "description": "Analyze and understand academic research papers with Google Gemini AI. Features structured few-shot analysis, paper summaries, methodologies, limitations, interactive Q&A, and exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
